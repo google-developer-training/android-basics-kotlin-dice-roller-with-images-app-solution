@@ -1,7 +1,7 @@
-Dice Roller with Images - Solution Code
+Add more conditional behavior in Kotlin - Solution Code
 =======================================
 
-Solution code for the Android Basics in Kotlin: Add Dice Images to the Dice Roller App codelab.
+Solution code for the Android Basics in Kotlin: Add more conditional behavior in Kotlin codelab.
 
 Introduction
 ------------
